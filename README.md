@@ -31,7 +31,8 @@ A FastAPI web application that predicts medical insurance charges using a Linear
 
 ```bash
 # Clone the repository
-git clone https://github.com/ajeetkumarAI/flask-medical-insurance-final.git
+git clone https://github.com/ajeetkumarAI/fastapi-medical-insurance--1-.git
+
 cd flask-medical-insurance
 
 # Create virtual environment
